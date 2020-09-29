@@ -6,8 +6,8 @@
 #define buzzerPin D6
 
 
-String ssid = "Wesley";
-String password = "7246307817";
+String ssid = "SSID";
+String password = "PASSWORD";
 String baseUrl = "http://raspberrypi.local:18089/";
 
 // Create variables:
